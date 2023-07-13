@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 3rem;
+    font-size: 1.125rem;
+    line-height: 1.5;
+    transition: all 725ms ease-in-out;
+}
+h1 {
+    font-size: 3rem;
+    font-weight: bolder;
+    margin-bottom: 1rem;
+    color: red;
+}
+h4 {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    color: violet;
+}
+p {
+    margin-bottom: 1rem;
+    color: greenyellow;
+}
+button {
+    cursor: pointer;
+    color: white;
+    border-radius: 16px;
+    font-size: 1rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid green;
+    background-color: gray;
+}
